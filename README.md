@@ -1,7 +1,7 @@
-### Hi there 👋
+### Holiiis a todos uwu 👋
 
-# 💫 About Me:
-💜Holis, soy Daniela <3<br>💻 Estudiante de la carrera Licenciatura en informática en la UNLP.
+# 💫 Yop:
+💜Soy Daniela <3<br>💻 Estudiante de la carrera Licenciatura en informática en la UNLP.
 
 
 ## 🌐 Socials:
