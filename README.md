@@ -20,7 +20,7 @@
 </li>
 <br><br><br>
 
-<br><br><br><br><br><br>
+<br><br><br>
 <div>
 <h2 align="center">            ~ 👩‍💻 𝓗𝓪𝓫𝓲𝓵𝓲𝓭𝓪𝓭𝓮𝓼 👩‍💻 ~</h2>
  <br>
