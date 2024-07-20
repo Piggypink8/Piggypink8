@@ -29,8 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piggypink8&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piggypink8&theme=monokai&hide_border=false" /> 
   </div>
-  <br>
-  <br>
 </div>
 </center>
 <!-- <a href="https://github.com/Zhenye-Na/DA-RNN">
